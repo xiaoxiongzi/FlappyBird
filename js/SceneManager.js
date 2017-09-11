@@ -58,7 +58,7 @@
                 game.bird.render();
                 game.bird.wing();
                 game.bird.x = game.canvas.width / 2 - 24;
-                game.bird.y = game.canvas.height / 2 - 100;
+                game.bird.y = game.canvas.height / 2;
                 game.bird.angle = 0;
                 game.context.drawImage(game.R["logo"], game.canvas.width / 2 - 89, this.logoY);
                 game.context.drawImage(game.R["button_play"], this.button_playX, this.button_playY);

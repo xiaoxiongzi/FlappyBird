@@ -1,7 +1,9 @@
 # FlappyBird
 
 原生JavaScript和Canvas实现FlappyBird小游戏
+
 ![预览](http://ounf1hr8f.bkt.clouddn.com/17-9-11/47228011.jpg)
+
 点击这里[开始游戏](https://xiaoxiongzi.github.io/FlappyBird/index.html)
 
 PS:可以以电脑浏览器的手机模式打开，也可以在手机浏览器中直接打开

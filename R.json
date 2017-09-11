@@ -1,0 +1,32 @@
+{
+    "images":[
+        {"name" : "bg_day", "url" : "R/image/bg_day.png" },
+        {"name" : "bg_night", "url" : "R/image/bg_night.png" },
+        {"name" : "bird0_0", "url" : "R/image/bird0_0.png" },
+        {"name" : "bird0_1", "url" : "R/image/bird0_1.png" },
+        {"name" : "bird0_2", "url" : "R/image/bird0_2.png" },
+        {"name" : "bird1_0", "url" : "R/image/bird1_0.png" },
+        {"name" : "bird1_1", "url" : "R/image/bird1_1.png" },
+        {"name" : "bird1_2", "url" : "R/image/bird1_2.png" },
+        {"name" : "bird2_0", "url" : "R/image/bird2_0.png" },
+        {"name" : "bird2_1", "url" : "R/image/bird2_1.png" },
+        {"name" : "bird2_2", "url" : "R/image/bird2_2.png" },
+        {"name" : "land", "url" : "R/image/land.png" },
+        {"name" : "pipe_down", "url" : "R/image/pipe_down.png" },
+        {"name" : "pipe_up", "url" : "R/image/pipe_up.png" },
+        {"name" : "shuzi0", "url" : "R/image/font_048.png" },
+        {"name" : "shuzi1", "url" : "R/image/font_049.png" },
+        {"name" : "shuzi2", "url" : "R/image/font_050.png" },
+        {"name" : "shuzi3", "url" : "R/image/font_051.png" },
+        {"name" : "shuzi4", "url" : "R/image/font_052.png" },
+        {"name" : "shuzi5", "url" : "R/image/font_053.png" },
+        {"name" : "shuzi6", "url" : "R/image/font_054.png" },
+        {"name" : "shuzi7", "url" : "R/image/font_055.png" },
+        {"name" : "shuzi8", "url" : "R/image/font_056.png" },
+        {"name" : "shuzi9", "url" : "R/image/font_057.png" },
+        {"name" : "logo", "url" : "R/image/title.png" },
+        {"name" : "button_play", "url" : "R/image/button_play.png" },
+        {"name" : "tutorial", "url" : "R/image/tutorial.png" },
+        {"name" : "text_game_over", "url" : "R/image/text_game_over.png" }
+    ]
+}
